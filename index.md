@@ -10,9 +10,9 @@ sections:
       title: One Talent Gateway
       subtitle: Plan your Career Growth with us!
       background: /images/hero-banner.png
-      variant: floating
-      size: md
-      alignment: right
+      variant: image
+      size: sm
+      alignment: left
       backgroundColor: white
   - infocols:
       title: Info-columns
