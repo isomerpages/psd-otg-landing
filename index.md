@@ -10,16 +10,10 @@ sections:
       title: One Talent Gateway
       subtitle: Plan your Career Growth with us!
       background: /images/hero-banner.png
-      variant: side
+      variant: floating
       size: sm
-      alignment: left
+      alignment: right
       backgroundColor: white
-  - infocols:
-      title: Info-columns
-      id: infocols
-      infoboxes:
-        - title: Infobox
-          description: Infobox description
-        - title: Infobox
-          description: Infobox description
+      button: Login to OTG
+      url: login
 ---
