@@ -15,5 +15,5 @@ sections:
       alignment: right
       backgroundColor: white
       button: Login to OTG
-      url: login
+      url: /login/
 ---
