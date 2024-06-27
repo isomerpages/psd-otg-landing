@@ -13,7 +13,7 @@ sections:
       variant: side
       size: sm
       alignment: right
-      backgroundColor: white
+      backgroundColor: gray
       url: /login/
       key_highlights:
         - title: Login to OTG using SingPass
