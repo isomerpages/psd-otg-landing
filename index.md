@@ -14,12 +14,10 @@ sections:
       size: md
       alignment: right
       backgroundColor: white
-      url: /login/
+      url: https://sg.fuel50careerdrive.com/oauth2/authorization/publicservicesdivsgid
       key_highlights:
-        - title: Login to OTG using SingPass
-          description: ""
-          url: https://sg.fuel50careerdrive.com/oauth2/authorization/publicservicesdivsgid
-        - title: Login to OTG using WOG AAD
+        - title: Login to OTG using WOG AAD instead
           description: ""
           url: https://sg.fuel50careerdrive.com/saml/login/alias/publicservicesdivsingapore
+      button: Login using Singpass
 ---
