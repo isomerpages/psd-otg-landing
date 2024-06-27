@@ -1,2 +1,8 @@
 logo: /images/Logo.png
-links: []
+links:
+  - title: FAQs
+    url: /permalink
+  - title: Contact us
+    url: /permalink
+  - title: What to do on OTG
+    url: /permalink
