@@ -16,8 +16,8 @@ sections:
       backgroundColor: white
       url: https://sg.fuel50careerdrive.com/oauth2/authorization/publicservicesdivsgid
       key_highlights:
-        - title: Login to OTG using WOG AAD instead
-          description: ""
+        - title: Unable login using SingPass?
+          description: Login using your gov.sg email
           url: https://sg.fuel50careerdrive.com/saml/login/alias/publicservicesdivsingapore
       button: Login using Singpass
 ---
