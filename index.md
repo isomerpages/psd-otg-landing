@@ -8,10 +8,10 @@ notification: ""
 sections:
   - hero:
       title: Plan your Career Growth with One Talent Gateway!
-      background: /images/hero-banner.png
+      background: /images/Background.png
       variant: floating
       size: md
-      alignment: right
+      alignment: left
       backgroundColor: white
       url: https://sg.fuel50careerdrive.com/oauth2/authorization/publicservicesdivsgid
       key_highlights:
