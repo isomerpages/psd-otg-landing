@@ -10,10 +10,10 @@ sections:
       title: One Talent Gateway
       subtitle: Plan your Career Growth with us!
       background: /images/hero-banner.png
-      variant: side
-      size: sm
+      variant: floating
+      size: md
       alignment: right
-      backgroundColor: gray
+      backgroundColor: white
       url: /login/
       key_highlights:
         - title: Login to OTG using SingPass
