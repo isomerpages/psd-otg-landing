@@ -22,17 +22,4 @@ sections:
         - title: Login to OTG using WOG AAD
           description: ""
           url: https://sg.fuel50careerdrive.com/saml/login/alias/publicservicesdivsingapore
-  - infopic:
-      id: infopic
-      button: Login with SingPass
-      url: https://sg.fuel50careerdrive.com/oauth2/authorization/publicservicesdivsgid
-      image: /images/Singpass.png
-      alt: Image alt text
-  - infopic:
-      subtitle: Add an image and text
-      id: infopic
-      button: Login with gov.sg
-      url: https://sg.fuel50careerdrive.com/saml/login/alias/publicservicesdivsingapore
-      image: /images/Gov_SG.png
-      alt: Image alt text
 ---
