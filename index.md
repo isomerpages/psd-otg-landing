@@ -17,9 +17,9 @@ sections:
       url: /login/
       key_highlights:
         - title: Login to OTG using SingPass
-          description: Key Highlight description
+          description: ""
           url: ABC
         - title: Login to OTG using WOG AAD
-          description: Key Highlight description
+          description: ""
           url: ""
 ---
