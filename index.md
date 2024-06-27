@@ -18,7 +18,7 @@ sections:
       key_highlights:
         - title: Login to OTG using SingPass
           description: ""
-          url: ABC
+          url: https://sg.fuel50careerdrive.com/saml/login/alias/publicservicesdivsingapore
         - title: Login to OTG using WOG AAD
           description: ""
           url: ""
