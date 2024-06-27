@@ -27,6 +27,6 @@ sections:
       description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
         eiusmod tempor incididunt ut labore et dolore magna aliqua.
       button: Button Text
-      image: /images/Logo.png
+      image: /images/download.png
       alt: Image alt text
 ---
