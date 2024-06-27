@@ -7,8 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: One Talent Gateway
-      subtitle: Plan your Career Growth with us!
+      title: Plan your Career Growth with One Talent Gateway!
       background: /images/hero-banner.png
       variant: floating
       size: md
