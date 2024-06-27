@@ -14,6 +14,12 @@ sections:
       size: sm
       alignment: right
       backgroundColor: white
-      button: Login to OTG
       url: /login/
+      key_highlights:
+        - title: Login to OTG via SingPass
+          description: Key Highlight description
+          url: ABC
+        - title: Login via WOG AAD
+          description: Key Highlight description
+          url: ""
 ---
