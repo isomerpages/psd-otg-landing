@@ -20,4 +20,13 @@ sections:
           description: Login using your gov.sg email
           url: https://sg.fuel50careerdrive.com/saml/login/alias/publicservicesdivsingapore
       button: Login using Singpass
+  - infopic:
+      title: Lorem Ispum
+      subtitle: USP 1
+      id: infopic
+      description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+        eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      button: Button Text
+      image: /images/Logo.png
+      alt: Image alt text
 ---
