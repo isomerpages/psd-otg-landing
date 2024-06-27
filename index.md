@@ -22,4 +22,10 @@ sections:
         - title: Login to OTG using WOG AAD
           description: ""
           url: https://sg.fuel50careerdrive.com/saml/login/alias/publicservicesdivsingapore
+  - infobar:
+      title: Infobar
+      subtitle: Add informational text
+      id: infobar
+      description: Infobar description
+      button: Button Text
 ---
